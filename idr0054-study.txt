@@ -14,6 +14,7 @@ Study Organism Term Source REF	NCBITaxon
 Study Organism Term Accession	9606			
 Study Experiments Number	1			
 Study External URL				
+Study BioStudies Accession	S-BSST221			
 Study Public Release Date				
 				
 # Study Publication				
